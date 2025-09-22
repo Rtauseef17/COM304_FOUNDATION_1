@@ -7,7 +7,7 @@
 | Student Number |Q103096322 |
 | Student Email |0tausr22@solent.ac.uk |
 | Github Account Username |rtauseef17 |
-| Github Submission Repository URL | |
+| Github Submission Repository URL | https://github.com/Rtauseef17/COM304_FOUNDATION_1|
 
 ## Introduction
 
