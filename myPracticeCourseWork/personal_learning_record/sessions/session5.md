@@ -4,16 +4,19 @@
 
 ## Topics covered
 *What topics were covered in this session*
-
+In this session i looked at computer programming languages and high level languages. I also used ARM assembler and learnt about a lot of instructions I can give to the device.
 
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
-
-
+I went on to CPUlator and learned to write to a screen terminal and how to send pictures to VGA.
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
+
+
+<img width="1512" height="982" alt="Screenshot 2025-10-14 at 11 33 55" src="https://github.com/user-attachments/assets/eca7ca5d-f075-46e5-ac5d-cf3ef4ca5bc4" />
+<img width="1512" height="982" alt="Screenshot 2025-10-14 at 11 33 16" src="https://github.com/user-attachments/assets/00f7dcff-393d-448c-a597-75f803412886" />
 
 
 
