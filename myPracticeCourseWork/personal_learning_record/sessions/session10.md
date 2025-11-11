@@ -4,6 +4,7 @@
 
 ## Topics covered
 *What topics were covered in this session*
+
 In this session we went covered the history of computing and we also looked at cloud computing.
 
 
@@ -12,7 +13,7 @@ In this session we went covered the history of computing and we also looked at c
 We looked at the history of networking and the cloud.
 
 3 Main Cloud Providers, Amazon, Google and Microsoft. Amazon allow other companies to run their services on AWS and all together AWS runs about 30-34% of the internet.
-
+We created an Microsoft Azure account so we can
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
