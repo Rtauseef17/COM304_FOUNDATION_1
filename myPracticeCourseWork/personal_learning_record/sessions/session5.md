@@ -22,3 +22,4 @@ I was able to simulate a working GPU and and used basic C code, I was able to di
 
 ## Summary of learning
 *What did you learn through these exercises*
+In this session, I moved deeper into low-level computing using CPUlator, an ARM processor emulator. I learned how assembly code interacts with registers and memory, and how the CPU executes instructions step by step. This experience gave me insight into processor architecture and the execution cycle, helping me understand how high-level code ultimately translates into machine operations.
