@@ -4,15 +4,22 @@
 
 ## Topics covered
 *What topics were covered in this session*
+
 -We were introduced to Github
+
 -We went over the short history of computing
+
 -The Cloud
+
 -Analogue and Digitial Computers
+
+-Significant historic figures
+
+-Transistors
 
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
-Github is a platform which allows for collaborative work and also personal work which is accessible through the cloud.
 
 Alan Turing invented the Bombe in WW2 and it allowed him to decode enigma machine messages an through Brute force attack.
 
@@ -21,13 +28,18 @@ The worlds first programmable computer was invented in 1943 and it was designed 
 The INIAC was created in 1945, it was the first electroninc programmable digital computer
 
 -Transistors and Integrated Ciruits
-Before transistors were used, computers used to use valves and they were bulky and fragile and used a lot of power and it made them impractical. The transistor is a semiconductor which changed the way the world looked at electronics and the development of modern electronic devices. The transistor is a thin layer of a semi conducting material that produced
+Before transistors were used, computers used to use valves and they were bulky and fragile and used a lot of power and it made them impractical. The transistor is a semiconductor which changed the way the world looked at electronics and the development of modern electronic devices. The transistor is a thin layer of a semi conducting material that would control the flow of the current through the semi conductor layer.
 
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
-
+Github is a platform which allows for collaborative work and also personal work which is accessible through the cloud. We set up our own Github accounts for us to upload our work.
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+In the excersise I learned how to use Github and how to fork and create our own repository.
+
+https://quantumzeitgeist.com/a-brief-history-of-the-transistor-and-integrated-circuit
+
