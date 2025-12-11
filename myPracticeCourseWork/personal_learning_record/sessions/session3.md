@@ -22,6 +22,7 @@ I explored the theoretical foundations of digital systems through Boolean algebr
 
 <img width="816" height="580" alt="Screenshot 2025-12-11 at 19 37 49" src="https://github.com/user-attachments/assets/bca19a48-e860-4a0c-89d1-246a046b7ba7" />
 
+I also went over Hexadecimals and Binary and got a stronger understanding.
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
