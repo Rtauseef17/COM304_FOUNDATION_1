@@ -38,3 +38,5 @@ Types of Cloud services
 *What did you learn through these exercises*
 
 In this session i learned how to create my own cloud through microsoft Azure and successfully deploy it.
+
+3 Main Cloud Providers, Amazon, Google and Microsoft. Amazon allow other companies to run their services on AWS and all together AWS runs about 30-34% of the internet.
