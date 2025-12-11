@@ -5,10 +5,15 @@
 ## Topics covered
 *What topics were covered in this session*
 
+Project management
 
+Agile and Waterfall methodology
+
+Open source and Closed source
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
 
 
 
