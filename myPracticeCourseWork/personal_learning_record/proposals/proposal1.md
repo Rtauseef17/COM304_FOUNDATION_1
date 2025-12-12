@@ -123,3 +123,4 @@ What will the floor plan change to and will there still be dedicated areas for t
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
+Based on what I learned about operating systems and cloud identity management in Sessions 1, 7, and 9, this proposal is technically feasible and aligns well with modern workplace trends. Hot-desking would reduce hardware costs and improve flexibility, but it depends heavily on reliable authentication systems and network infrastructure. Staff adaptation may be a challenge, but the technical skills I gained in configuring Linux systems and understanding cloud-based user profiles give me confidence that such a transition could be implemented effectively with appropriate planning
