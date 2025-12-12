@@ -5,6 +5,8 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+Given my learning to different levels of programming, from assembly language to high-level C. it is clear that many routine tasks can be automated or accelerated using low-code/no-code platforms. I propose adopting these tools to empower non-technical staff to develop simple workflows while reserving advanced coding for specialised projects. Coupling this approach with agile methodologies would lead to faster delivery, iterative improvement, and better engagement. My sessions on programming and system design have given me insight into when traditional coding is beneficial and when more abstracted tools are appropriate
+
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
