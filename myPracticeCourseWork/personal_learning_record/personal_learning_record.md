@@ -6,7 +6,7 @@
 | Student Name |Raheem Tauseef |
 | Student Number |Q103096322 |
 | Student Email |0tausr22@solent.ac.uk |
-| Github Account Username | Rtauseef|
+| Github Account Username | Rtauseef17|
 | Github Submission Repository URL |https://github.com/Rtauseef17/COM304_FOUNDATION_1/tree/main |
 
 ## Introduction
