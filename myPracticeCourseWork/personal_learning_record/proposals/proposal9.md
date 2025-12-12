@@ -5,6 +5,8 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+Based on my understanding of operating systems, user authentication, secure remote access, and network configuration from Sessions 7 and 9, I propose a comprehensive cybersecurity enhancement strategy. This would include stricter access controls, multi-factor authentication, VPNs, system updates, threat monitoring, and regular penetration testing. My experience studyin the CompTIA S+ gives me a strong foundation for recommending sound cybersecurity practices that protect council assets from emerging threats
+
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
