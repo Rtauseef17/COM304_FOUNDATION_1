@@ -121,3 +121,5 @@ Sessions 1, 3 & 4 (Raspberry Pi, GPIO, Gertboard): Taught me how to connect sens
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
+This proposal is strongly informed by the practical sessions (3, 4, and 6), where I learned to configure Raspberry Pis, program GPIO, and work with embedded C. Using Raspberry Pis as IoT counters is cost-effective and technically achievable. The main considerations involve sensor accuracy, device security, and reliable network connectivity. Given my hands on experience, I consider this proposal highly feasible and capable of enhancing data-driven decision-making across libraries and museums
+
