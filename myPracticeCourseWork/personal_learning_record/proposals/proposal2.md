@@ -128,4 +128,4 @@ Session 10 (Azure Cloud Computing): Provided hands-on experience deploying virtu
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
-
+The cloud computing knowledge I gained in Session 10 makes this proposal highly viable. Moving server workloads into the cloud would increase scalability and resilience. However, migration planning is crucial, especially for legacy software that may require refactoring. While cloud services introduce ongoing costs, they reduce maintenance overhead and improve service availability. My understanding of virtual machines, resource provisioning, and system administration supports the feasibility of this proposal, provided security and compliance considerations are carefully managed
