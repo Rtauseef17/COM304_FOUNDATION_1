@@ -23,16 +23,16 @@ Drawing on my understanding of web hosting, Apache configuration, and cloud serv
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Reduces in-person demand at council offices</li>
+        <li>Enhances service efficiency and availability</li>
+        <li>Provides real-time updates and automation</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Requires continuous development and maintenance</li>
+        <li>Significant initial investment in infrastructure</li>
+        <li>Legacy systems may be difficult to integrate</li>
       </ol> 
     </td>
   </tr>
@@ -43,16 +43,16 @@ Drawing on my understanding of web hosting, Apache configuration, and cloud serv
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Expand self-service options for citizens</li>
+        <li>Improve data analytics and public feedback</li>
+        <li>Reduce call-centre workload</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cyberattacks targeting public websites</li>
+        <li>Outages could disrupt access to essential services</li>
+        <li>App store restrictions or platform changes</li>
       </ol> 
     </td>
   </tr>
@@ -69,16 +69,16 @@ Drawing on my understanding of web hosting, Apache configuration, and cloud serv
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Supports government digital transformation policies</li>
+        <li>Must meet accessibility and inclusion regulations</li>
+        <li>Requires transparent handling of personal data</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Reduces long term cost of face-to-face service delivery</li>
+        <li>Investment in digital infrastructure is required</li>
+        <li>Increased automation lowers operational costs</li>
       </ol> 
     </td>
   </tr>
@@ -89,16 +89,16 @@ Drawing on my understanding of web hosting, Apache configuration, and cloud serv
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Meets public expectations for online services</li>
+        <li>Risk of excluding citizens lacking digital access or skill</li>
+        <li>Encourages more efficient communication and service use</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cloud hosting ensures scalability during high demand</li>
+        <li>Mobile app integration increases engagement</li>
+        <li>Requires continuous cyber security enhancements</li>
       </ol> 
     </td>
   </tr>
@@ -108,8 +108,15 @@ Drawing on my understanding of web hosting, Apache configuration, and cloud serv
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+
+* How long would this proposal take to implement? 
+
 * question 2
+
+* Will the app be available on all app stores immediatly?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+My experience studying CompTIA S+. A centralised website and app would improve accessibility, streamline processes, and reduce pressure on in-person services. Technical risks include cybersecurity threats, system integration challenges, and ensuring accessibility for all residents. Nevertheless, the knowledge I gained on web servers, cloud scalability, and system configuration suggests that this proposal is achievable and aligns with public expectations for modern digital services
 
