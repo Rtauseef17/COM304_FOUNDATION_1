@@ -3,10 +3,10 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2025 | 
-| Student Name | |
-| Student Number | |
-| Student Email | |
-| Github Account Username | |
+| Student Name |Raheem Tauseef |
+| Student Number |Q103096322 |
+| Student Email |0tausr22@solent.ac.uk |
+| Github Account Username | Rtauseef|
 | Github Submission Repository URL | |
 
 ## Introduction
