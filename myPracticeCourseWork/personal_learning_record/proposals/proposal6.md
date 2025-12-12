@@ -5,6 +5,8 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+Drawing on my understanding of web hosting, Apache configuration, and cloud services (Sessions 7 and 9), I propose a digital-first strategy where the council’s website and mobile application serve as the main gateways for public engagement. This would involve ensuring the site is highly available, accessible, mobile-friendly, and cloud-hosted for reliability and scalability. By combining my experience managing web servers with modern cloud techniques, I can support a streamlined, user-centric digital service platform that enhances accessibility and reduces administrative overhead
+
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
