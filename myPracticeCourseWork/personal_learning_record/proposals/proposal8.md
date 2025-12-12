@@ -5,6 +5,8 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+With my exposure to automation principles, and cloud computing, I propose exploring the use of AI to streamline council operations. AI could support tasks such as automating form processing, analysing public engagement data, or optimising resource allocation. While AI extends beyond the scope of what we practised directly, the foundational understanding I gained regarding algorithms, systems architecture, and automation tools provides a basis for identifying feasible applications of AI in council services.
+
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
