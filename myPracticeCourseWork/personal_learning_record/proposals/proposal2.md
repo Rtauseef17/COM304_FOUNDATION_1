@@ -33,16 +33,16 @@ Session 10 (Azure Cloud Computing): Provided hands-on experience deploying virtu
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Increased scalability and availability</li>
+        <li>improved performance through distributed resources</li>
+        <li>Reduced dependency on physical infrastructure</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Requires skilled staff for cloud administration</li>
+        <li>Ongoing cloud subscription cost</li>
+        <li>Potential vendor lock-in</li>
       </ol> 
     </td>
   </tr>
@@ -53,16 +53,16 @@ Session 10 (Azure Cloud Computing): Provided hands-on experience deploying virtu
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Ability to modernise legacy applications</li>
+        <li>Access to AI, automation, and analytics tools</li>
+        <li>Supports digital-transformation strategies</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cloud outages could affect essential services</li>
+        <li>Regulatory challenges regarding data sovereignty</li>
+        <li>Misconfiguration risks could lead to data breaches</li>
       </ol> 
     </td>
   </tr>
@@ -79,16 +79,16 @@ Session 10 (Azure Cloud Computing): Provided hands-on experience deploying virtu
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Need to comply with GDPR and data residency regulations</li>
+        <li>governance obligations for cloud-stored data</li>
+        <li>Alignment with UK digital transformation and cloud-first strategies</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Reduced on site hardware maintenance costs</li>
+        <li>Subscription based cloud services impact long term budgets</li>
+        <li>calability reduces cost during low demand periods</li>
       </ol> 
     </td>
   </tr>
@@ -99,16 +99,16 @@ Session 10 (Azure Cloud Computing): Provided hands-on experience deploying virtu
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Public expectation for faster and more reliable online services</li>
+        <li>Staff require upskilling in cloud technologies</li>
+        <li>Improved service availability benefits citizen satisfaction</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cloud offers stronger redundancy and failover capabilities</li>
+        <li>Legacy systems may require ectra work to migrate</li>
+        <li>Integration with modern SaaS applications becomes easier</li>
       </ol> 
     </td>
   </tr>
@@ -118,8 +118,14 @@ Session 10 (Azure Cloud Computing): Provided hands-on experience deploying virtu
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+
+*If the council is to use a cloud provider what provider would they use? 
+
 * question 2
+
+* How much does the council plan to spend and is it affordable?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
 
